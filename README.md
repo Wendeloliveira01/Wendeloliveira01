@@ -2,7 +2,7 @@
 
 
 
--  Futuro desenvolvedor: Front-end.
+-  Futuro desenvolvedor: back-end.
 -  Futuro desenvolvedor: Front-end.
 -  Contato: wendeloiver@gmail.com
 
