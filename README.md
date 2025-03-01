@@ -1,9 +1,6 @@
-### Olá!! Prazer me chamo Wendel Oliveira.
+### Olá!! Prazer me chamo Wendel Bonucci.
 
-
-
--  Futuro desenvolvedor: back-end.
--  Futuro desenvolvedor: Front-end.
+-  Desenvolvedor-Web: Front-end.
 -  Contato: wendeloiver@gmail.com
 
 <br>
